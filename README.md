@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Momonhg
-- 👀 I’m interested in ...creating new contents about toxic relationships
-- 🌱 I’m currently learning ... web development
+- 👀 I’m interested in ...creating new contents about self development
+- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... any project
 - 📫 How to reach me ... slide into my dms :D
 
